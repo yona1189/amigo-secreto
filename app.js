@@ -134,7 +134,7 @@ function generaIndiceAleatorio() {
     numIndiceAleatorio = [];
     // Si ya se han generado todos los índices posibles, podrías devolver un valor especial o lanzar un error
     alert(
-      "Ya se generaron todos los nombres de amigos secreto posibles\nSe generarán de nuevamente"
+      "Ya se generaron todos los nombres de amigos secreto posibles\nSe generarán nuevamente"
     );
     
     
